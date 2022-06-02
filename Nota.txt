@@ -1,0 +1,3 @@
+- Debe reemplazar los valores de las variables en "datos_conexion.php" por sus datos. 
+- Antes de usar el index.php debe usar carga_tabla.php, este archivo crea la tabla en la BBDD y carga los datos del EndPoint.
+- En reportes_sql.php se encuentra el resto de los puntos pedidos, la mayoria son consultas SQL.
